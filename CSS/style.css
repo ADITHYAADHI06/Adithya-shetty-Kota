@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+.fullblack{
+    background-color: black;
+}
+.black{
+    color: black;
+}
+.yellow{
+   color: #FFC107 ;
+}
+.yellowb{
+    background-color: #FFB319;
+   
+}
+.gred{
+  
+    color:  linear-gradient( 109.6deg,  rgba(247,253,166,1) 11.2%, rgba(128,255,221,1) 57.8%, rgba(255,128,249,1) 85.9% );
+}
+.dullwhite{
+    color: #FEF9EF;
+}
+.progress{
+    border-radius: 15px !important;
+    padding: 5px !important; 
+}
+.progress-bar{
+    border-radius: 25px !important;
+
+}
+
+.fancyborder{  
+    /* max-width: 280px;
+    height: 280px; */
+    border-radius: 56% 44% 44% 56% / 42% 44% 56% 58% ;
+}
+.fancyborderabout{  
+   
+    border-radius:55% 45% 32% 68%/57% 45% 55% 43%;  ;
+}
+.font{
+    font-family: 'Ubuntu', sans-serif;
+  
+}
+
+.margintop90{
+   margin-top: 90px;
+
+}
+.margintop130{
+    margin-top: 130px;
+}
+.margintop150{
+    margin-top: 150px;
+}
+.margintop200{
+    margin-top: 200px;
+ 
+ }
+
+ .shadowwhite{
+     
+     border-radius: 20px;
+    box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+-webkit-box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+-moz-box-shadow: 1px 0px 19px 0px rgba(255,255,255,0.75);
+ }
+
+h1{
+    font-size: 65px;
+    font-weight: 700;
+}
+h2{
+    font-size: 55px;
+    font-weight: 700;
+}
+h3{
+    font-weight: 500;
+    font-size: 40px;
+}
+
+.h3newf{
+    font-size: 30px;
+    font-weight: 400;
+       
+}
+.h3newf2{
+    font-size: 25px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+
+
