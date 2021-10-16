@@ -72,6 +72,10 @@
    margin-top: 90px;
 
 }
+.margintop80{
+    margin-top: 80px;
+ 
+ }
 .margintop130{
     margin-top: 130px;
 }
@@ -156,6 +160,10 @@ h3{
      
 .d_none{
     display: none;
+}
+.minifont a{
+    font-size: 10px;
+
 }
 
  }
